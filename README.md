@@ -46,6 +46,11 @@ Each example folder contains a `.env.example` file. For each project you want to
 
 You'll need to repeat this for each example project you want to run.
 
+## Commands
+
+   $ adk
+   $ adk web
+
 ## Examples Overview
 
 Here's what you can learn from each example folder:
